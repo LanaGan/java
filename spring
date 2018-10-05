@@ -1,0 +1,12 @@
+spring 
+
+BeanFactory和应用上下文（ApplicationContext）
+  1.DI(依赖注入) 
+    本质：装配,管理应用对象之间的协作关系。
+    DI三种注入方式：
+    1.自动装配使用@compent注解 以及开启自动注解扫描功能。
+    2.使用xml方式手动配置。
+    3.使用javaconfig手动配置。
+  
+  2.AOP（面向切面编程）
+    xml配置方式（）；     
